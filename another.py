@@ -1,2 +1,2 @@
 print("I love girls!")
-print("Hence, I am a boy.")
+print("Hence, I am a boy, of course.")
